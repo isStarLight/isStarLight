@@ -1,5 +1,5 @@
-- I’m O.J 
-- I’m interested in building systems that solve problems for Africans
+- Hi, I'm John. 
+- I’m interested in building systems that solve problems for people.
 - I’m currently learning Rust for Systems Engineering
 - I’m looking to collaborate on cool projects. 
 - 📫 You can reach me via starLight376@proton.me
