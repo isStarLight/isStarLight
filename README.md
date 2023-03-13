@@ -1,7 +1,7 @@
 - I’m O.J 
 - I’m interested in building systems that solve problems for Africans
-- I’m currently learning Rust
-- I’m looking to collaborate on cross platform applications 
+- I’m currently learning Rust for Systems Engineering
+- I’m looking to collaborate on cool projects. 
 - 📫 You can reach me via starLight376@proton.me
 
 <!---
